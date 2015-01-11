@@ -1,0 +1,15 @@
+{
+  "name": "this-bluebird-context",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^2.6.2",
+    "request-promise": "^0.3.2"
+  }
+}
